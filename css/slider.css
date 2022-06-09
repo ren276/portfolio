@@ -125,3 +125,11 @@
     display: none;
   }
 }
+
+.clients{
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-display:initial;
+  font-style: oblique;
+  color: black;
+}
