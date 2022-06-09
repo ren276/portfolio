@@ -35,7 +35,7 @@
   top: 0;
   height: 100%;
   width: 100%;
-  background-color: #4070F4;
+  background-color: #03a9f4;
   border-radius: 25px 25px 0 25px;
 }
 .overlay::before,
@@ -46,7 +46,7 @@
   bottom: -40px;
   height: 40px;
   width: 40px;
-  background-color: #4070F4;
+  background-color: #a6bbf1;
 }
 .overlay::after{
   border-radius: 0 25px 0 0;
