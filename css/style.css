@@ -431,13 +431,13 @@ a:hover {
   color: #222;
 }
 .nav-scroll .navbar-nav .logo {
-  padding: 15px 0;
+  padding: 15px ;
   color: #111;
 }
 
 .logo {
-  padding: 15px 0;
-  width: 100px;
+  padding: 5px 0;
+  width: 60px;
 }
 
 /* ----------------------------------------------------------------
