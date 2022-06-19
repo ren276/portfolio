@@ -390,7 +390,7 @@ a:hover {
   border: 0;
   background: transparent;
   z-index: 9;
-  min-height: 70px;
+  min-height: 60px;
 }
 .navbar .icon-bar {
   color: #fff;
