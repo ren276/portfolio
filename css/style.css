@@ -1,42 +1,4 @@
-/*-----------------------------------------------------------------------------------
-
- Theme Name: Coco
- Theme URI: http://
- Description: The Multi-Purpose Onepage Template
- Author: ui-themez
- Author URI: http://themeforest.net/user/ui-themez
- Version: 1.0
-
- Main Color   : #1A237E , #2576FD
- main Font    : Rubik
-
------------------------------------------------------------------------------------*/
-/* ----------------------------------------------------------------
-
- == Table Of Content
-
-	01 Basics
-	02 Buttons
-	03 Navbar
-	04 Header
-	05 Hero
-	06 Process
-	07 Works
-	08 why-us
-	09 Team
-	10 Testimonials
-	11 Price
-	12 Blog
-	13 Call-action
-	14 Contact
-	15 Footer
-	16 Responsive
- 
-
----------------------------------------------------------------- */
-/* ----------------------------------------------------------------
-     [ 01 Start Basics ]
------------------------------------------------------------------*/
+@import url('https://fonts.googleapis.com/css?family=Pirata+One|Rubik:900');
 * {
   margin: 0;
   padding: 0;
