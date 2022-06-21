@@ -669,6 +669,7 @@ a:hover {
 }
 .tabs-section .tab-content .image {
   padding: 0;
+  
   position: relative;
   margin-left: -50px;
   margin-top: -40px;
