@@ -6,8 +6,7 @@
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-  <meta name="keywords" content="HTML5 Template Coco onepage themeforest" />
-  <meta name="description" content="Coco - Onepage Multi-Purpose HTML5 Template" />
+  
   <meta name="author" content="" />
 
   <!-- Title  -->
@@ -773,34 +772,39 @@
             </div>
           </div>
         </div>
-
+        
         <div class="col-lg-7">
-          <form class="form" id="contact-form" method="post" action="contact_me.php">
+          <form class="form" id="contact-form" action="https://formsubmit.co/reachout@thecode.work" method="POST">
+             
             <div class="messages"></div>
 
             <div class="controls">
               <div class="row">
                 <div class="col-md-6">
                   <div class="form-group">
-                    <input id="form_name" type="text" name="name" placeholder="Name" required="required" />
+                    <input id="form_name" type="text" name="Name" placeholder="Name" required="required" />
                   </div>
                 </div>
                 <div class="col-md-6">
                   <div class="form-group">
-                    <input id="form_email" type="email" name="email" placeholder="Email" required="required" />
+                    <input id="form_email" type="email" name="Email ID" placeholder="Email" required="required" />
                   </div>
                 </div>
                 <div class="col-md-12">
                   <div class="form-group">
-                    <input id="form_subject" type="text" name="subject" placeholder="Budget" />
+                    <input id="form_subject" type="text" name="Budget" placeholder="Budget" />
                   </div>
                 </div>
                 <div class="col-md-12">
                   <div class="form-group">
-                    <textarea id="form_message" name="message" placeholder="Project Description" rows="4"
+                    <textarea id="form_message" name="Project Description" placeholder="Project Description" rows="4"
                       required="required"></textarea>
                   </div>
                 </div>
+                <input type="hidden" name="_template" value="table">
+                <input type="hidden" name="_subject" value="New submission!">
+                <input type="hidden" name="_captcha" value="false">
+                <input type="hidden" name="_next" value="https://thecode.work/">
 
                 <div class="col-md-12">
                   <button type="submit" class="butn butn-bg">
@@ -883,6 +887,7 @@
 
   <!-- particles.min js -->
   <script src="js/particles.min.js"></script>
+  <script src="script.js"></script>
 
   <!-- app js -->
   <script src="js/app.js"></script>
