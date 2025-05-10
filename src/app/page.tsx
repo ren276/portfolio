@@ -10,7 +10,7 @@ import Timeline from "@/components/Timeline";
 import { Portfolio } from "@/utils/interface";
 
 export default async function Home() {
-  const portfolio = (await import("@/dummy.json")).default;
+  const portfolio = (await import("@/data.json")).default;
 
   const {
     about,

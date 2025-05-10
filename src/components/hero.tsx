@@ -23,7 +23,7 @@ const Hero = ({ about }: HeroProps) => {
           <div className="flex items-center justify-center flex-col h-full pb-10">
             <Transition>
               <img
-                src={about.avatar.url}
+                src="avatar.jpg"
                 alt={about.name}
                 className="rounded-full size-28 object-cover"
               />

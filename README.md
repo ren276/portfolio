@@ -1,18 +1,7 @@
-# Portfolio Project
+# Portfolio
 
 ![Modern Portfolio Website](https://github.com/user-attachments/assets/4f82669c-9a5a-4761-a927-2f54f0f64169)
 
-## Overview
-
-This project is a portfolio website template showcasing skills, projects, and experience. It is built using modern web technologies and follows best practices for performance and accessibility.
-
-## ✨ Features
-
-- **Responsive Design**: Optimized for various screen sizes and devices.
-- **Interactive Animations**: Smooth and engaging animations using Framer Motion.
-- **SEO Optimized**: Built with best practices for search engine optimization.
-- **Fast Performance**: Optimized for fast loading times and performance.
-- **Accessible**: Follows accessibility best practices to ensure a great experience for all users.
 
 ## 🛠️ Tech Stack
 
@@ -36,7 +25,7 @@ This project is a portfolio website template showcasing skills, projects, and ex
 │   ├── app/
 │   ├── components/
 │   ├── utils/
-│   └── dummy.json
+│   └── data.json
 ├── .eslintrc.json
 ├── .env
 ├── .gitignore
@@ -63,7 +52,7 @@ This project is a portfolio website template showcasing skills, projects, and ex
 - **`app`**: Contains the main application components.
 - **`components`**: Contains reusable UI components.
 - **`utils`**: Contains utility functions.
-- **`src/dummy.json`**: Contains dummy data for the portfolio.
+- **`src/data.json`**: Contain data for the portfolio.
 
 ### Configuration Files
 
@@ -84,13 +73,13 @@ This project is a portfolio website template showcasing skills, projects, and ex
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/tehseen01/the-portfolio.git
+   git clone https://github.com/ren276/portfolio
    ```
 
 2. Navigate to the project directory:
 
    ```sh
-   cd the-portfolio
+   cd portfolio
    ```
 
 3. Install the dependencies:
@@ -133,9 +122,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions or feedback, reach out through:
 
 - Email: tehseen.type@gmail.com
-- Twitter: [@tehseen_type](https://twitter.com/tehseen_type)
-- LinkedIn: [Mohd Tehseen](https://linkedin.com/in/tehseen.01)
+- Twitter: [@tehseen_type](https://x.com/helosandy13)
+- LinkedIn: [Mohd Tehseen](https://www.linkedin.com/in/sandeshverma/)
 
 ---
 
-Built with ❤️ by [Mohd Tehseen]
+Built with ❤️ by [Sandesh Verma]
